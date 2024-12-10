@@ -1,0 +1,64 @@
+.o-carousel--thumbnail img {
+    height: 15%
+}
+
+.o-carousel--item {
+    margin-bottom: 10px;
+}
+
+#thumbnail0 {
+    height:12%;
+}
+
+#item0 {
+    display: block;
+}
+
+#item1 {
+    display: none;
+}
+
+#item2 {
+    display: none;
+}
+
+#item3 {
+    display: none;
+}
+
+#item4 {
+    display: none;
+}
+
+#item5 {
+    display: none;
+}
+
+button {
+    display: block;
+    margin: 10px;
+}
+
+#cap0 {
+    display: block;
+}
+
+#cap1 {
+    display: none;
+}
+
+#cap2 {
+    display: none;
+}
+
+#cap3 {
+    display: none;
+}
+
+#cap4 {
+    display: none;
+}
+
+#cap5 {
+    display: none;
+}
